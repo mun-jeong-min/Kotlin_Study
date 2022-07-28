@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b294657d-f6b7-44b8-a170-2e474d09f99f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kotlin_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kotlin_Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/Kotlin_Learning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/ArrayKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/META-INF/Kotlin_Learning.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/Pack2/StopKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/Package/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/Package/FunArrayKt$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/out/production/Kotlin_Learning/Package/FunArrayKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/src/Array.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/src/Pack2/Stop.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/src/Package/Color.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin_Learning/src/Package/funArray.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/pack/Array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Study/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Study/MainKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +89,7 @@
       <workItem from="1652324917565" duration="36000" />
       <workItem from="1652324973932" duration="485000" />
       <workItem from="1652351997457" duration="232000" />
-      <workItem from="1658976129998" duration="512000" />
+      <workItem from="1658976129998" duration="2981000" />
     </task>
     <servers />
   </component>
