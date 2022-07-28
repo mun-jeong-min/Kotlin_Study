@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b294657d-f6b7-44b8-a170-2e474d09f99f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/array/Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Study/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Study/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Study/META-INF/Kotlin_Study.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Study/META-INF/Kotlin_Study.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/s" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Kotlin.ArrayKt (3)">
     <configuration name="ArrayKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="Kotlin_Study" />
@@ -40,6 +47,13 @@
     </configuration>
     <configuration name="ArrayKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.kotlin.pack.ArrayKt" />
+      <module name="Kotlin_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.kotlin.array.ArrayKt" />
       <module name="Kotlin_Study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayKt (3)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.ArrayKt (2)" />
         <item itemvalue="Kotlin.ArrayKt (1)" />
@@ -89,7 +104,7 @@
       <workItem from="1652324917565" duration="36000" />
       <workItem from="1652324973932" duration="485000" />
       <workItem from="1652351997457" duration="232000" />
-      <workItem from="1658976129998" duration="2981000" />
+      <workItem from="1658976129998" duration="3963000" />
     </task>
     <servers />
   </component>
