@@ -1,10 +1,7 @@
 fun main() {
+    println(sum(10,10))
+}
 
-    val strings = listOf("one", "two", "three")
-    val a = 1
-    lateinit var b: String
-    val str = setOf("one", "two", "three")
-
-    println(strings)
-    println(str)
+fun sum(a: Int, b: Int):Int {
+    return a+b
 }
