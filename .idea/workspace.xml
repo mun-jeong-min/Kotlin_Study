@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b294657d-f6b7-44b8-a170-2e474d09f99f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/array/Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Study/META-INF/Kotlin_Study.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Study/META-INF/Kotlin_Study.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/array/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin_st/src/main/kotlin/array/Array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,8 @@
       <workItem from="1652324917565" duration="36000" />
       <workItem from="1652324973932" duration="485000" />
       <workItem from="1652351997457" duration="232000" />
-      <workItem from="1658976129998" duration="3963000" />
+      <workItem from="1658976129998" duration="4737000" />
+      <workItem from="1659535993015" duration="111000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,8 @@ fun main() {
     when {
         "orange" in items2 -> print("melon")
         "apple" in items2 -> print("watermelon")
+        "kiwi" in items2 -> print("SA")
+        else -> print("end")
     }
     println(items2)
 
